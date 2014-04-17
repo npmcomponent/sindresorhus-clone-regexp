@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [sindresorhus/clone-regexp](http://github.com/sindresorhus/clone-regexp). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/sindresorhus-clone-regexp`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # clone-regexp [![Build Status](https://travis-ci.org/sindresorhus/clone-regexp.svg?branch=master)](https://travis-ci.org/sindresorhus/clone-regexp)
 
 > Clone and modify a [RegExp](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp) instance
